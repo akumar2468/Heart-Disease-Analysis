@@ -1,10 +1,10 @@
-# Heart-Disease-Analysis
+## Heart-Disease-Analysis
 
-# Aim of Project
+## Aim of Project
 
 This project uses machine learning and R to determine whether an individual has heart disease or not. The machine learning aspect of this project utlizes supervised machine learning because information about the output is known. Since this is a classification problem, there are two outputs: 1 as an individual having heart disease and 0 as an individual not having heart disease.
 
-# Description of Variables
+## Description of Variables
 
 In this dataset, there are 14 features (columns), which also includes the target. The dataset includes the following variables:
 
@@ -24,7 +24,7 @@ In this dataset, there are 14 features (columns), which also includes the target
 
 We can observe that when we load the data, there are no null values in the dataset. The data type for our variables are numeric, indicating that the data does not need to be changed into dummy variables.
 
-# Analyzing Performance
+## Analyzing Performance
 
 In order to analyze the performance of a classification model, logarithmic loss is used.
 
